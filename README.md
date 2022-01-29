@@ -1,6 +1,6 @@
 # Itay G
 
-Hi! I'm Itay Godasevich, a 13 year old ```software developer```.
+Hi! I'm Itay G, a 13 year old ```software developer```.
 
 #### Some things that I like 👍:
  - Playing piano
