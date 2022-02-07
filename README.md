@@ -19,6 +19,7 @@ Hi! I'm Itay G, a 13 year old ```software developer```.
 
 - [Morsy](https://www.github.com/MorsyApp/Morsy): An open-source anonymous chat website written in TypeScript
 - [Nerde](https://www.github.com/itay-cyber/Nerde): A small project. This is an algebra and calculus calculator
+- [Blockwyre]: A crypto payment system that allows developers to implement paying with crypto in their website.
 
 #### My skills 💪
 
