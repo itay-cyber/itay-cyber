@@ -10,7 +10,7 @@
 
 #### What i'm working on 💻:
 
-Nothing rn
+AoC 2022
 
 #### My Skills: 
 
