@@ -1,6 +1,6 @@
 # Itay G
 
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" /> Hi! I'm Itay G, a 14 year old ```software developer```. I'm like system architecture, frontend development, backend development game dev, linux and more!
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" /> Hi! I'm Itay G, a 14 year old ```software developer```. I like system architecture, frontend development, backend development game dev, linux and more!
 
 
 #### Wanna contact me? 📱:
@@ -10,8 +10,7 @@
 
 #### What i'm working on 💻:
 
-AoC 2022
-www.adventofcode.com
+Nothing currently..
 
 #### My Skills: 
 
