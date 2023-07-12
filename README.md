@@ -10,7 +10,7 @@
 
 #### What i'm working on 💻:
 
-Nothing currently..
+Employed at [SpearUAV](https://www.spearuav.com)
 
 #### My Skills: 
 
